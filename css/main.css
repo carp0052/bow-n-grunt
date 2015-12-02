@@ -1,0 +1,112 @@
+.navbar .navbar-brand{
+    color: #3d3d3d;
+}
+
+.navbar .nav-link{
+    color: #B36EFC;
+}
+
+.navbar .nav-link:hover{
+    color: rebeccapurple;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    margin-bottom: 0;
+    color: #fff;
+    background-color: #3d3d3d;
+}
+
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+
+.jumbotron-heading {
+    font-weight: 300;
+    color: #B36EFC;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+.btn{
+    width: 12rem;
+}
+
+.btn-primary{
+    background: #B36EFC;
+    border-color: #B36EFC;
+}
+
+.btn-primary:hover{
+    background: rebeccapurple;
+    border-color: rebeccapurple;
+}
+
+.album {
+    min-height: 50rem;
+    /* Can be removed; just added for demo purposes */
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #fff;
+}
+
+.card {
+    float: left;
+    width: 33.333%;
+    padding: .75rem;
+    margin-bottom: 2rem;
+    border: 0;
+}
+
+.card > img {
+    margin-bottom: .75rem;
+    width: 100%;
+}
+
+.card-text {
+    font-size: 85%;
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 130px;
+}
+
+.social{
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    text-align: right;
+    font-size: 0.8rem;
+    color: #B36EFC;
+}
+
+.social a {
+    font-weight: 500;
+    color: #eeeeef;
+}
+
+.social a:hover {
+    color: #B36EFC;
+    text-decoration: none;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 130px;
+    background-color: #3d3d3d;
+}

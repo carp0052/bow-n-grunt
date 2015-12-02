@@ -1,0 +1,22 @@
+{
+  "name": "bow-n-grunt",
+  "version": "0.0.0",
+  "homepage": "https://github.com/carp0052/bow-n-grunt",
+  "authors": [
+    "Sara Carpinone <carp0052@algonquinlive.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
